@@ -6,7 +6,7 @@
 </p>
 </br></br>
 
-<h2>Projeto</h2>
+<h2 align="center">Projeto</h2>
 <p>Personal Portfolio é um projeto que eu criei com intuito de ser um local onde eu possa exibir alguns dos meus projetos com mais facilidade.</p>
 </br>
 
@@ -19,7 +19,7 @@
 
 </br></br>
 
-
+<h2 align="center">responsividade</h2>
 <p align="center">
    <img  src="/images/img3.png">   
 </p>
