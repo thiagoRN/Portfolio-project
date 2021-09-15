@@ -1,5 +1,7 @@
 
-<h1 align="center" href"https://thiagoramos-portfolio.firebaseapp.com/">Personal Portfolio</h1>
+<h1 align="center" ><a href="https://thiagoramos-portfolio.firebaseapp.com/" target="_blank">Personal Portfolio</a></h1>
+
+
 </br>
 <p align="center">
    <img  src="/images/img1.png">  
